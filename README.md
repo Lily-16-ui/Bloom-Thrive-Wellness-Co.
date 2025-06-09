@@ -1,16 +1,16 @@
 # BLOOM & THRIVE WELLNESS CO.
 
 ### TABLE OF CONTENTS
-- [Project Overview](project-overview)
-- [Data Sources](data-sources)
-- [Tools](tools)
-- [Data Cleaning/Preparation](data-cleaning/preparation)
-- [Exploratory Data Analysis/Key Questions](exploratory-data-analysis/key-questions)
-- [Data Analysis](data-analysis)
-- [Results/Findings](results/findings)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
-- [References](references) 
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Exploratory Data Analysis/Key Questions](#exploratory-data-analysis/key-questions)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references) 
 
 ### PROJECT OVERVIEW
 This project is targeted at revealing deeper and clearer insights into the customer behavior and product performance across all customer based regions of Bloom & Thrive Wellness Co. Through analysis of this data we hope to make meaningful recommendations to aid better product performance.
